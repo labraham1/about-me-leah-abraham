@@ -1,8 +1,9 @@
-/* The selector "p" indicates that all paragraphs in the document will be affected by that rule */
+.fit-picture{
+    width: 250px;
+}
+
 p {
-    /* The "color" property defines the text color, in this case deeppink. */
     color: deeppink;
 
-    /* The "background-color" property defines the background color, in this case black. */
     background-color: black;
 }
