@@ -7,3 +7,14 @@ li {
 
     background-color: light;
 }
+
+.fit-img-dogs {
+    width: 250px;
+    height: 250px;
+}
+
+.border {
+    border: 10px deeppink;
+    border-block-style: groove;
+    writing-mode: horizontal-tb;
+}
